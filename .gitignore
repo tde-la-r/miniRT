@@ -1,0 +1,13 @@
+*.o
+*.swp
+a.out
+.nfs*
+empty*
+out
+miniRT
+miniRT_bonus
+libft.a
+MLX42
+.vscode
+Screenshots
+Render_*
